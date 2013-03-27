@@ -1,0 +1,15 @@
+{
+  "name": "holstee-shell",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "require.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}

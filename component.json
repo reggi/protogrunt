@@ -1,0 +1,15 @@
+{
+  "name": "gatekeeper",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~2.3.1",
+    "jquery": "1.7.2",
+    "requirejs": "~2.1.5",
+    "text": "~2.0.5",
+    "underscore": "~1.4.4",
+    "requirejs-plugins": "latest",
+    "shopify_jquery_ajax_api": "git://github.com/carolineschnapp/shopify_jquery_ajax_api.git",
+    "jQuery-URL-Parser": "git://github.com/allmarkedup/jQuery-URL-Parser.git#~2.2.1",
+    "jquery-zclip": "git://github.com/alobaidi/jquery-zclip.git"
+  }
+}
